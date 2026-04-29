@@ -1,1 +1,1 @@
-![System Diagram](FanControlTelegramBOTESPCode/images/projectPhoto.jpeg)
+![System Diagram](FanControlTelegramBotESPCode/images/projectPhoto.jpeg)
